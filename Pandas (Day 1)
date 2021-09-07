@@ -1,0 +1,11 @@
+Day 1:
+
+  * Introduction to Machine Learning
+  * Setting up our Environment 
+    > Installing Anaconda
+    > Installing Jupyter and setting up Localhost ready
+  * Introduction to Pandas
+  * Learning Datatypes in Pandas
+    > Series
+    > Dataframes
+  * Import and Export of CSV in Pandas
