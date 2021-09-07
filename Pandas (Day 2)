@@ -1,0 +1,22 @@
+Day 2:
+
+  * Pandas Data Analysis
+    > Pandas Attributes   # Datatypes
+    > Pandas Functions
+        # Mean    # To calculate Mean
+        # sum     # To sum the Values Present in the data
+        # Columns # To see the Column of the data
+        # Index   # To know the index of the data
+        # info    # It is a combination of dtypes and Index
+        # len     # To find the Length of the Data which we are using
+        
+    > Viewing the Data
+        # Head
+        # Tail
+        > Locating the Data
+          # loc ( Refers to Locaion of the Data )
+          #iloc ( Refers to location of the index number the data )
+
+
+
+
