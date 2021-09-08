@@ -1,0 +1,20 @@
+Pandas Day 3:
+
+      > Selecting and Viewing Data
+      > Comparing the data which we uploaded as CSV       ## using Crontab Func.,
+      > Taking Mean for a Specific Column
+      > Drawing Graph and Histogram for the Spectific Column
+      > Converting Object Column into int64 column 
+      
+      
+      
+
+Manipulating the Data using Pandas :)
+
+    > Changing the Data in a Particular column to a lower using str func.,
+    > Replacing the NaN Data with mean of that column using filna Fun.,
+    > Dropping the Nan Data with dropna Funct.,
+    > Writing permanently to the Data Table using inplace argument
+    > Creating new Columns using Series & Python List
+    > Using Arithmetic Operations to combine the value of the two columns
+    > 
