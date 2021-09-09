@@ -1,0 +1,27 @@
+Numpy (Day 1)
+
+      > Introduction to Numpy
+      > Datatypes of Numpy
+      > Anatomy of a Numpy Array
+      > Datatypes in Numpy
+        # ndarray
+      > Functions & Datatypes in Numpy
+        # size        // to find the no of elements given in the axis
+        # dtype       // to find the data type of the array
+        # shape       // to find the shape of the array
+        # dimensions  // to see the dimensions of the given array
+        # type        // to find the type of the array according to the numpy library
+       
+       
+       
+      > Creating a DataFrame from a numpy array
+      
+        > making an array with ones & zeros
+        > Making random array using
+            #  np.random.random
+            #  np.random.randint
+            #  np.random.rand
+            
+  
+        
+        
