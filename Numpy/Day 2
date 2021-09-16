@@ -5,4 +5,29 @@ Numpy : Day 2
       //creating random numbers using seed function
   > Viewing the Arrays & Matrices
       // Finding Elements of a array using unique function\
+      // Filtering Arrays using : (semicolon)
       
+  > Manipulating Arrays & Matrices
+      // Arithmetid Operations using Numpy
+      // Add , Subtract , MUltiply , Divison , Squaring using arithmetic Symbols
+      // Finding the Exponential , Logarithm , Modulos in using numpy function
+     
+   > Finding Standard Standard Deviation & Variance of two array 
+      // Plotting the values with matplotlib
+      // Reshaping the arrays to do arithmetic operations
+      // Transposing the arrays
+      
+   > Dot Product 
+       // What is Dot Product
+       // Dot Product vs Elementalwise product
+       // using np.dot() function
+       // Comparing Arrays using Booleans
+       // Sorting Arrrays .argsoft()
+       // Sorting Arrrays based on minimum values.argmin()
+       // Sorting Arrrays based on maximum.argmax()
+   
+   > Converting the Images to Numpy Array
+   
+      // Importing the images from the source location
+      // Loading the Dependencies CV2
+      // Converting images using the imread function from matplotlibimage package
